@@ -7,7 +7,7 @@ Um script com Vagrant a fim de criar um cluster com três nós e um master, tend
         <img src="https://img.shields.io/badge/Vagrant-2.4.0-%231563FF.svg" />
     </a>
     <a alt="Docker">
-        <img src="https://img.shields.io/badge/Docker-v3.9-%230db7ed.svg" />
+        <img src="https://img.shields.io/badge/Docker-24.0.6-%230db7ed.svg" />
     </a>
      <a alt="Shell">
         <img src="https://img.shields.io/badge/Shell-%89e051.svg" />
